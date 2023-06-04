@@ -1,3 +1,15 @@
 .ob_text{
 	font-size: 100px;
 }
+.font700{
+	font-weight: 700;
+}
+.colorgreen{
+	color: green;
+}
+.ident{
+	text-indent: 500px;
+}
+.decoration{
+	text-decoration: underline;
+}
